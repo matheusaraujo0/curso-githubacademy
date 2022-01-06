@@ -22,3 +22,37 @@ Nesse curso você vai dominar todo **git** e **github** _do zero ao profissional
 [Instagram]
 
 >Este é um blockquote usado para destacar alguma área
+
+```
+npm start
+```
+
+**Exemplo de uso do script:**
+
+```js
+function showName(name){
+    return 'Bem vindo: ' + name;
+}
+```
+
+
+**Uso do HTML:**
+
+```html
+<h1>
+    Titulo do projeto
+    <span>Curso GIT</span>
+</h1>
+```
+
+**CSS padrão do projeto:**
+
+```CSS
+.titulo{
+    background-color: #FFF;
+    color: #FF0000;
+}
+
+```
+
+
